@@ -14,7 +14,7 @@
         <?php if( $share_twitter_enabled ): ?>
             <li style="list-style-type: none; display: inline-block;">
                 <a target="_blank" class="twitter" href="<?php echo esc_url('https://twitter.com/share?url='.$share_link_url.'&amp;text='.$share_twitter_summary); ?>" title="<?php esc_attr_e( 'Twitter', 'thegem' ) ?>"></a>
-            </li>
+            </li>sdfsdfsdfsdfs
         <?php endif; ?>
 
         <?php if( $share_facebook_enabled ): ?>
